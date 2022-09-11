@@ -24,7 +24,7 @@
     "vue/multi-word-component-names": [
       "error",
       {
-        "ignores": ["index"]
+        "ignores": ["index","default"]
       }
     ],
     "@typescript-eslint/no-inferrable-types": "off"
