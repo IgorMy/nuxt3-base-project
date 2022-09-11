@@ -23,3 +23,9 @@ Also, it is good to mention that Prettier and Eslint are also installed and conf
 # yarn
 yarn install
 ```
+
+## Notes
+To use correctly this project, I hardly recommend you to read the followings docs:
+- [Nuxt](https://v3.nuxtjs.org/guide/concepts/introduction/)
+- [Tailwindcss](https://tailwindcss.com/docs/installation)
+- [Pinia](https://pinia.vuejs.org/introduction.html)
