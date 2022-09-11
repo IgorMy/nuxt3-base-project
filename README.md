@@ -22,6 +22,7 @@ Also, it is good to mention that Prettier and Eslint are also installed and conf
 ```bash
 # yarn
 yarn install
+yarn build # to solve some beta release bugs
 ```
 
 ## Notes
